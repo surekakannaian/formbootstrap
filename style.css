@@ -11,10 +11,16 @@ form{
         position: relative;
         top: 2%;
     }
+    .sec{
+        height: 100%;
+     }
 }
 @media screen and (max-width:480px){
     form{
         position: relative;
         top: 2%;
     }
+    .sec{
+        height: 100%;
+     }
 }
