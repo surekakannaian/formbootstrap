@@ -1,0 +1,20 @@
+form{
+    position: absolute;
+    top: 10%;
+    box-shadow: 0 0 3px gray;
+}
+.sec{
+   height: 75vh;
+}
+@media screen and (max-width:600px){
+    form{
+        position: relative;
+        top: 2%;
+    }
+}
+@media screen and (max-width:480px){
+    form{
+        position: relative;
+        top: 2%;
+    }
+}
